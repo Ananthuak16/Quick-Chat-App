@@ -58,4 +58,3 @@ The application is deployed and can be accessed [here](https://stellular-kangaro
 This project was created by [Ananthu Krishnan M.R].
 
 
-```
