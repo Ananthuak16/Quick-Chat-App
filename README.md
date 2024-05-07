@@ -41,6 +41,16 @@ npm start
 - Use the message input field to send messages in the current conversation.
 - Create a new conversation by clicking the "Create Conversation" button and selecting a contact.
 
+## Github Repository
+
+Explore the code on [GitHub](<https://github.com/Ananthuak16/Quick-Chat-App.git>).
+
+
+### Video Explanation
+
+A video explaining the approach to solving the problem and demonstrating the final product has been recorded. You can watch the video [here](<https://drive.google.com/file/d/1q7kvYxq-AnYaz9ZHQhVNmcVgSZK_cvIT/view>).
+
+
 ## Deployment
 
 The application is deployed and can be accessed [here](https://stellular-kangaroo-fc9bfe.netlify.app/).
