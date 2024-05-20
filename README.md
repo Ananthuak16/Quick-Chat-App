@@ -41,6 +41,25 @@ npm start
 - Use the message input field to send messages in the current conversation.
 - Create a new conversation by clicking the "Create Conversation" button and selecting a contact.
 
+## Credentials For Logging In 
+
+
+Email: atom@gmail.com
+Pass: 123654
+
+Email: hawx@gmail.com
+Pass: 123654
+
+Email: shadow@gmail.com
+Pass: 123654
+
+Email: light@gmaiil.com
+Pass: 123654
+
+
+
+
+
 ## Github Repository
 
 Explore the code on [GitHub](<https://github.com/Ananthuak16/Quick-Chat-App.git>).
